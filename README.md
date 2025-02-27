@@ -14,15 +14,6 @@
 
 ---
 
-## 🔗 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/elene-tskitishvili">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🚀 Tech Stack  
 
 ### **Languages**  
@@ -61,6 +52,15 @@
 ### **Design Tools**  
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 🔗 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/elene-tskitishvili">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
