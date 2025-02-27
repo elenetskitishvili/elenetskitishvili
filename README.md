@@ -6,11 +6,11 @@
 ---
 
 ## 🌟 About Me  
-- 💻 Experienced in **React, Next.js, TypeScript, and Supabase**  
-- 🎨 Skilled in **Tailwind CSS, Styled Components, and Sass**  
-- 💳 Implemented **Stripe** for seamless payment solutions  
-- 🔐 Strong focus on **authentication & security** with **Auth0 & Supabase**  
-- 🛠️ Love working in **Agile teams** and collaborating with developers  
+ 💻  Experienced in **React, Next.js, TypeScript, and Supabase**  
+ 🎨  Skilled in **Tailwind CSS, Styled Components, and Sass**  
+ 💳  Implemented **Stripe** for seamless payment solutions  
+ 🔐  Strong focus on **authentication & security** with **Auth0 & Supabase**  
+ 🛠️  Love working in **Agile teams** and collaborating with developers  
 
 ---
 
